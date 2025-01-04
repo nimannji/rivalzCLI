@@ -1,0 +1,2 @@
+# rivalzCLI
+Rivalz rclient CLI
